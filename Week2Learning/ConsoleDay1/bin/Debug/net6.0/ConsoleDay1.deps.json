@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleDay1/1.0.0": {
+        "dependencies": {
+          "LibraryForD1": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleDay1.dll": {}
+        }
+      },
+      "LibraryForD1/1.0.0": {
+        "runtime": {
+          "LibraryForD1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleDay1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryForD1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

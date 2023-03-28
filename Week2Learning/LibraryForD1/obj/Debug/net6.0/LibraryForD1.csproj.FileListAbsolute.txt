@@ -1,0 +1,12 @@
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\bin\Debug\net6.0\LibraryForD1.deps.json
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\bin\Debug\net6.0\LibraryForD1.dll
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\bin\Debug\net6.0\LibraryForD1.pdb
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\obj\Debug\net6.0\LibraryForD1.csproj.AssemblyReference.cache
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\obj\Debug\net6.0\LibraryForD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\obj\Debug\net6.0\LibraryForD1.AssemblyInfoInputs.cache
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\obj\Debug\net6.0\LibraryForD1.AssemblyInfo.cs
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\obj\Debug\net6.0\LibraryForD1.csproj.CoreCompileInputs.cache
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\obj\Debug\net6.0\LibraryForD1.dll
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\obj\Debug\net6.0\refint\LibraryForD1.dll
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\obj\Debug\net6.0\LibraryForD1.pdb
+C:\Users\Lynn\Documents\Week2Learning\LibraryForD1\obj\Debug\net6.0\ref\LibraryForD1.dll
